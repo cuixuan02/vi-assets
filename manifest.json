@@ -1,0 +1,92 @@
+[
+  {
+    "product": "通用品牌",
+    "type": "logo",
+    "variant": "主色横版",
+    "format": "svg",
+    "desc": "公司主 Logo，横版，适用于浅色背景",
+    "tags": ["主 Logo", "横版", "浅色背景"],
+    "filename": "brand_logo_horizontal_light.svg",
+    "url": "https://raw.githubusercontent.com/cuixuan02/vi-assets/main/brand/logo/brand_logo_horizontal_light.svg"
+  },
+  {
+    "product": "通用品牌",
+    "type": "logo",
+    "variant": "反白横版",
+    "format": "svg",
+    "desc": "公司主 Logo，横版，适用于深色背景",
+    "tags": ["主 Logo", "横版", "深色背景", "反白"],
+    "filename": "brand_logo_horizontal_dark.svg",
+    "url": "https://raw.githubusercontent.com/cuixuan02/vi-assets/main/brand/logo/brand_logo_horizontal_dark.svg"
+  },
+  {
+    "product": "通用品牌",
+    "type": "color",
+    "variant": "主色盘",
+    "format": "pdf",
+    "desc": "品牌主色盘规范，含 HEX / RGB / CMYK 数值",
+    "tags": ["配色", "色盘", "规范"],
+    "filename": "brand_color_palette.pdf",
+    "url": "https://raw.githubusercontent.com/cuixuan02/vi-assets/main/brand/color/brand_color_palette.pdf"
+  },
+  {
+    "product": "通用品牌",
+    "type": "font",
+    "variant": "主字体",
+    "format": "ttf",
+    "desc": "品牌主字体文件",
+    "tags": ["字体", "主字体"],
+    "filename": "brand_font_primary.ttf",
+    "url": "https://raw.githubusercontent.com/cuixuan02/vi-assets/main/brand/font/brand_font_primary.ttf"
+  },
+  {
+    "product": "ProductA",
+    "type": "logo",
+    "variant": "主色方版",
+    "format": "svg",
+    "desc": "ProductA 方形 Logo，适用于 App 图标、头像等场景",
+    "tags": ["方形", "App 图标", "头像"],
+    "filename": "productA_logo_square.svg",
+    "url": "https://raw.githubusercontent.com/cuixuan02/vi-assets/main/ProductA/logo/productA_logo_square.svg"
+  },
+  {
+    "product": "ProductA",
+    "type": "banner",
+    "variant": "首页 Banner 横版",
+    "format": "png",
+    "desc": "ProductA 官网首页 Banner，1920×1080，浅色背景",
+    "tags": ["Banner", "首页", "宽屏"],
+    "filename": "productA_banner_home_1920x1080.png",
+    "url": "https://raw.githubusercontent.com/cuixuan02/vi-assets/main/ProductA/banner/productA_banner_home_1920x1080.png"
+  },
+  {
+    "product": "ProductA",
+    "type": "icon",
+    "variant": "功能图标组",
+    "format": "svg",
+    "desc": "ProductA UI 功能图标，含 24 个常用图标",
+    "tags": ["icon", "UI", "图标组"],
+    "filename": "productA_icons_ui.svg",
+    "url": "https://raw.githubusercontent.com/cuixuan02/vi-assets/main/ProductA/icon/productA_icons_ui.svg"
+  },
+  {
+    "product": "ProductB",
+    "type": "logo",
+    "variant": "主色横版",
+    "format": "svg",
+    "desc": "ProductB 横版 Logo，适用于浅色背景",
+    "tags": ["主 Logo", "横版"],
+    "filename": "productB_logo_horizontal.svg",
+    "url": "https://raw.githubusercontent.com/cuixuan02/vi-assets/main/ProductB/logo/productB_logo_horizontal.svg"
+  },
+  {
+    "product": "ProductB",
+    "type": "template",
+    "variant": "PPT 模板",
+    "format": "pptx",
+    "desc": "ProductB 品牌 PPT 模板，含封面、目录、内容页",
+    "tags": ["PPT", "模板", "演示文稿"],
+    "filename": "productB_template_ppt.pptx",
+    "url": "https://raw.githubusercontent.com/cuixuan02/vi-assets/main/ProductB/template/productB_template_ppt.pptx"
+  }
+]
